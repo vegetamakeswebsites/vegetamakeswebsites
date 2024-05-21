@@ -2,7 +2,7 @@ Hi, I’m @vegetamakeswebsites (my real name is Ahmad Ijaz) I'm interested in we
 I’m currently learning python, Javascript and Tailwind CSS
 I’m looking to collaborate on anything really.
 How to reach me: my Instagram where im most active; @midvoiceimpressions
-Fun fact: I'm a voice actor, editor, gun aficionado, car guy, gamer, manga reader, photographer, collector, and swordsman.
+Fun fact: I stream on twitch.
 
 <!---
 vegetamakeswebsites/vegetamakeswebsites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
